@@ -2,6 +2,8 @@
 
 This data set comes from a Kaggle competition and Coursera course to predict monthly sales for a store with multiple physical locations. There are two solutions in this repository. The first solution uses lagged time based encodings for total item sales, total shop sales, and average values. The second solution uses lag time based encodings and stacking of multiple machine learning algorithms.
 
+There are two versions of the model. The first version uses mean encodings. The second version uses mean encodings with stacking.
+
 # Getting Started
 
 ### Prerequisites 
